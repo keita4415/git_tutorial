@@ -2,4 +2,3 @@ git tutorial テキスト
 add 変更をインデックスに登録する
 commit インデックスの状態を記録する
 pull りもーとレポジトリの内容を取得する。編集
-revert テスト
